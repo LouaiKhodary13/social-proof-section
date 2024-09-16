@@ -50,4 +50,3 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@LouaiKhodary13](https://www.frontendmentor.io/profile/LouaiKhodary13)
-- Twitter - [@anosha1ahmed](https://www.twitter.com/anosha1ahmed)
